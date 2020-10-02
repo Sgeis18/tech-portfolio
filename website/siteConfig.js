@@ -67,7 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'sofia-geislinger-608161181r',
+        linkedin: 'sofia-geislinger-608161181',
         twitter: '',
         github: 'Sgeis18',
     },
