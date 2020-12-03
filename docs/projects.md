@@ -3,12 +3,13 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+**School Projects:** 
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
+*Fall 2020* 
 
-![Add alternate text for image](./assets/rosemary.png)
+Integrated a maze game with UI features using Android Studio. Below is the home screen of the app. The maze application's theme is "the college experience."
+
+![Home screen of app.](./assets/MazeApp.PNG)
+
+**Side Projects**
