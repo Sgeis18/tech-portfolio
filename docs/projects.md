@@ -12,4 +12,7 @@ Integrated a maze game with UI features using Android Studio. Below is the home 
 
 ![Home screen of app.](./assets/MazeApp.PNG)
 
+
+
 **Side Projects**
+(section in developmenta)
